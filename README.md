@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌱 PANTRIX  
+### AI + IoT Solution for Food Waste Reduction (SDG 12)
 
-# Run and deploy your AI Studio app
+PANTRIX is a smart food management system that helps **homes and restaurants** reduce food waste using **real-time tracking, AI insights, and automation**.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/124HtAu9WHq1Soe05O1TuCAOUJqEP0cSY
+## ❗ Problem Statement
+Nearly **one-third of global food production is wasted every year**, with the majority occurring in **households and restaurants**.  
+This waste is mainly caused by:
+- Forgotten or misunderstood expiry dates  
+- Overbuying and poor inventory management  
+- Lack of real-time tracking and personalized reminders  
+- Plate and preparation waste in restaurants  
 
-## Run Locally
+The result is **resource loss, methane emissions, food insecurity, and economic loss**, despite millions facing hunger.
 
-**Prerequisites:**  Node.js
+---
 
+## 💡 What PANTRIX Does
+- 📱 AI app with expiry alerts, health warnings & recipe suggestions  
+- 📦 IoT pantry tracking using QR, weight & temperature sensors  
+- 🍽️ Smart plate system to monitor and reduce restaurant waste  
+- 🤝 Automated connection to food banks for surplus redistribution  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🛠 Tech Stack
+Flutter • Firebase • Gemini API • Python • TensorFlow Lite • ESP32
+
+---
+
+**Because every grain counts.** 🌾

@@ -609,7 +609,11 @@ const AppContent: React.FC = () => {
                         </main>
                         <button
                             onClick={() => setPublicView('healthbot')}
+<<<<<<< HEAD
                             className="fixed bottom-6 right-6 md:bottom-8 md:right-8 bg-secondary text-white p-4 rounded-full shadow-lg hover:bg-blue-500 transition-all duration-300 transform hover:scale-110 z-10 animate-button-pop-in"
+=======
+                            className="fixed bottom-6 right-6 md:bottom-8 md:right-8 bg-primary text-white p-4 rounded-full shadow-lg hover:bg-primary-hover transition-all duration-300 transform hover:scale-110 z-10 animate-button-pop-in"
+>>>>>>> 5ed71f5e7c0e161f3a8abda8ba906ca79dd5d02e
                             aria-label="Open Health Assistant"
                         >
                             <BotIcon className="w-6 h-6 md:w-8 md:h-8" />
