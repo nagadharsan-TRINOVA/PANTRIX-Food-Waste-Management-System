@@ -8,6 +8,7 @@ PANTRIX is a smart food management system that helps **homes and restaurants** r
 https://pantrix-final-git-main-naga-dharsan-ns-projects.vercel.app/
 
 # Pantrix Google Cloud Deployed Link
+https://snuc-gdgoc-pantrix-smart-pantry-waste-reduction-454243523339.us-west1.run.app/
 
 
 ## ❗ Problem Statement
