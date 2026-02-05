@@ -4,6 +4,11 @@
 PANTRIX is a smart food management system that helps **homes and restaurants** reduce food waste using **real-time tracking, AI insights, and automation**.
 
 ---
+# Pantrix Deployed Vercel Link
+https://pantrix-final-git-main-naga-dharsan-ns-projects.vercel.app/
+
+# Pantrix Google Cloud Deployed Link
+
 
 ## ❗ Problem Statement
 Nearly **one-third of global food production is wasted every year**, with the majority occurring in **households and restaurants**.  
